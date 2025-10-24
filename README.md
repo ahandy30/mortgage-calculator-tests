@@ -1,7 +1,5 @@
 # mortgage-calculator-tests
 
-Hello and Welcome to my Github!
-
 I created two tests based on the Zillow Mortgage Calculator: https://www.zillow.com/mortgage-calculator/. 
 
 The first test is a user going through the calculator inputting the following:
