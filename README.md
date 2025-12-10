@@ -1,4 +1,4 @@
-# mortgage-calculator-tests
+# Mortgage-Calculator-Tests
 
 Hello and Welcome to my Github!
 
