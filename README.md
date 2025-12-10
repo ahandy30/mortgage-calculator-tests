@@ -1,4 +1,4 @@
-# mortgage-calculator-tests
+# Mortgage-Calculator-Tests
 
 I created two tests based on the Zillow Mortgage Calculator: https://www.zillow.com/mortgage-calculator/. 
 
